@@ -1,0 +1,63 @@
+form#header button {
+	background: #98D4C7;
+	border: none;
+	color #FFFFFF;
+	display: black;
+	margin: 0px;
+	padding: 15px;
+}
+
+form#header button:hover{
+	background: #C2FFF2;
+	cursor: pointer;
+	/* add this to images later 
+	 margin: 10px;
+	 padding: 30px; */
+}
+
+#container{
+	width:988px;
+	background-color: #1C6369;
+	border: 1px solid #FFD98F;
+	margin: 20px auto;
+	height: 900px;
+	font-family: Verdana, Georgia, Times, serif;
+	color: #333333;
+}
+
+body{
+	font-size: 10px;
+	color: #88907A;
+	background-color: #1C6369;
+}
+
+header{
+	width:700px;
+	margin: 0 auto;
+}
+
+
+h1 {
+	font-family: Verdana, Georgia, Times, serif;
+	color: #FFF6E3;
+}
+
+.box {
+	width: 233px;
+	height: 300px;
+	background-color: #1C6369;
+	margin: 0 25px;
+}
+
+.row {
+	clear: both;
+}
+
+a, a:visited { /* for anchor tags and visited ones */
+	color:  #FFD98F;
+	font-weight: 300;
+}
+
+a:active, a:hover {
+		color: #333333;
+}
